@@ -1,3 +1,4 @@
 .env
 .vscode
 go.work*
+credentials.yml
